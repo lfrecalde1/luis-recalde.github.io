@@ -83,7 +83,7 @@ author:
   name             : "Luis F Recalde"
   avatar           : "Fer.png"
   bio              : ""
-  location         : "Location"
+  location         : #
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_v1511cAAAAJ&hl=es"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
